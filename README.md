@@ -1,7 +1,7 @@
 # Global Chat Bot
 - Another Global Chat for Discord where you can communicate with users of other servers through this bot.
 - Original idea of https://github.com/tnfAngel.
-- Support: https://discord.gg/huguitis.ga
+- Support: https://discord.gg/huguitis
 - Invite the bot: https://discord.com/oauth2/authorize?client_id=863880148822786078&scope=bot&permissions=8
 
 # Setup
