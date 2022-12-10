@@ -77,6 +77,7 @@ bot.status({
 })
 
 bot.variables({
+    OwnerID: setting.OwnerID,
     SuccessEmoji: setting.SuccessEmoji,
     ErrorEmoji: setting.ErrorEmoji,
     LoadingEmoji: setting.LoadingEmoji,
