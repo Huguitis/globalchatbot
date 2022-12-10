@@ -3,6 +3,6 @@ name: "eval",
 code: `
 $eval[$message]
 
-$onlyForIDs[$botOwnerID;]
+$onlyForIDs[$botOwnerID;759796588842450944;]
 ` 
 })
