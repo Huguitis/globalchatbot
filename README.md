@@ -1,4 +1,4 @@
-# Global Chat Bot
+# Global Chat Bot v1.0.0 (Outdated) Please use v2
 - Another Global Chat for Discord where you can communicate with users of other servers through this bot.
 - It may have some bugs, which I will fix over time.
 - Original idea of https://github.com/tnfAngel
